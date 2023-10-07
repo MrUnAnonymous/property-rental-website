@@ -36,11 +36,13 @@
     padding: 5px 10px;
     border-color: aqua;
     margin-left: 10px;
+    cursor: pointer;
 }
 
 .actionButton2{
     border-radius: 80px;
     border-color: aqua;
+    cursor: pointer;
 }
 
 .actionButton3{
@@ -49,6 +51,7 @@
     padding: 10px 15px;
     border-color: aqua;
     margin-right: 10px;
+    cursor: pointer;
 }
 
 .card-image{
